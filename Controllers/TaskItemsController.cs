@@ -10,7 +10,7 @@ using TaskBackend.Models;
 
 namespace TaskBackend.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TaskItems")]
     [ApiController]
     public class TaskItemsController : ControllerBase
     {
